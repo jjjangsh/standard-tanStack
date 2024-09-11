@@ -1,0 +1,44 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "a title",
+      "views": 100
+    },
+    {
+      "id": "2",
+      "title": "another title",
+      "views": 200
+    },
+    {
+      "id": "aedd",
+      "title": "테스트게시물",
+      "views": "2222"
+    },
+    {
+      "id": "43f7",
+      "title": "테스트게시물2",
+      "views": "3333"
+    },
+    {
+      "id": "37ef",
+      "title": "테스트게시물3",
+      "views": "22323"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "text": "a comment about post 1",
+      "postId": "1"
+    },
+    {
+      "id": "2",
+      "text": "another comment about post 1",
+      "postId": "1"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
